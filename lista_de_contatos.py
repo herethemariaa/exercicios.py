@@ -1,3 +1,5 @@
+#Lógica em Python de uma lista de contatos utilizando os dicionários:
+
 contacts_list = []
 
 while True:
