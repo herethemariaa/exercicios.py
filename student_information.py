@@ -1,3 +1,5 @@
+#Lógica em Python de uma lista de alunos com suas respectivas notas, utilizando os dicionários:
+
 list_students = []
 
 while True:
